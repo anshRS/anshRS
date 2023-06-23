@@ -1,5 +1,5 @@
 
-![Header](https://github.com/anshRS/anshRS/assets/114407607/661dd3d6-24c3-461c-8f92-988d8b53008d)
+![Header](https://github.com/anshRS/anshRS/assets/114407607/107f99ff-7459-4fdb-8c22-1f45226dedb1)
 
 # About Me
 A passionate and driven computer science student with a focus on web development, app development, and machine learning. I am dedicated to expanding my knowledge and skills in the rapidly evolving tech industry. I am eager to contribute to innovative projects and collaborate with like-minded professionals in the field.
