@@ -4,9 +4,10 @@
 # About Me
 A passionate and driven computer science student with a focus on web development, app development, and machine learning. I am dedicated to expanding my knowledge and skills in the rapidly evolving tech industry. I am eager to contribute to innovative projects and collaborate with like-minded professionals in the field.
 
-- 👨🏻‍🎓 I’m currently a student at Punjab Engineering College
-- 🌱 I’m currently learning new Techstacks
-- 💻 Most of my projects are available on <a href="https://github.com/anshRS">Github</a>
+- `🎓 Education`: Pursuing a degree in Computer Science 🎓 at Punjab Engineering College, Chandigarh  
+- `👨‍💻 Skills`: Proficient in C, C++, Python 🐍, JavaScript ⚡️ and Dart 🎯. Experience with the MERN stack (MongoDB, Express.js, React, Node.js) 🌐.
+- `💼 Projects`: Developed a social media website using the MERN stack, enabling users to create profiles, post updates, and connect with friends 🌐. Built a recruiting application using Django, providing a platform for job seekers and employers to connect and streamline the hiring process 📝.
+- `💻 GitHub`: Most of my projects are available on my <a href="https://github.com/anshRS">Github</a>
 
 <br>
 
