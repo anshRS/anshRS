@@ -82,6 +82,12 @@ A passionate and driven computer science student with a focus on web development
   <img src="https://streak-stats.demolab.com?user=anshRS&theme=dark" alt="GitHub Streak">
 </p>
 
+<br>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshRS&title=Commits">
+</p>
+
 ***
 
 <p align="center">
