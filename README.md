@@ -2,7 +2,10 @@
 ![Header](https://github.com/anshRS/anshRS/assets/114407607/107f99ff-7459-4fdb-8c22-1f45226dedb1)
 
 # About Me
+
 A passionate and driven computer science student with a focus on web development, app development, and machine learning. I am dedicated to expanding my knowledge and skills in the rapidly evolving tech industry. I am eager to contribute to innovative projects and collaborate with like-minded professionals in the field.
+
+<img align="right" height="170" src="https://github-profile-trophy.vercel.app/?username=anshRS&title=Commits&row=1&column=1&theme=nord&no-frame=true"> 
 
 - `🎓 Education`: Pursuing a degree in Computer Science 🎓 at Punjab Engineering College, Chandigarh  
 - `👨‍💻 Skills`: Proficient in C, C++, Python 🐍, JavaScript ⚡️ and Dart 🎯. Experience with the MERN stack (MongoDB, Express.js, React, Node.js) 🌐.
@@ -41,7 +44,6 @@ A passionate and driven computer science student with a focus on web development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 <br>
 
@@ -83,16 +85,14 @@ A passionate and driven computer science student with a focus on web development
 </p>
 
 <br>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=anshRS&title=Commits">
-</p>
-
+      
 ***
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshRS&label=PROFILE+VIEWS&color=ED4C67" alt="GitHub Streak">
 </p>
+
+<br>
 
 <!--
 Here are some ideas to get you started:
